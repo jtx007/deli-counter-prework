@@ -14,4 +14,5 @@ end
 end
 
 def take_a_number(katz_deli, name)
-  puts "Welcome, #{name}. You are number #{katz_deli"
+  puts "Welcome, #{name}. You are number #{katz_deli[-1] + 1}."
+end
